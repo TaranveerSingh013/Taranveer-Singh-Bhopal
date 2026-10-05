@@ -1,0 +1,7 @@
+{
+  "name": "XORAC Paris • Haute Couture",
+  "description": "Luxury haute couture atelier portal featuring runway drops, VIP patron dashboard, bespoke measurements profile, and private concierge appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
